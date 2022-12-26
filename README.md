@@ -4,7 +4,7 @@
 
 ### Manual
 
-1. Run `update.sh` script which will create "blocked" ipset's set
+1. Run `update.sh` script which will create "blocked" ipset's set for ipv4, "blocked6" for ipv6 and "blocked-list" for superset
 2. Create iptables rules to redirect traffic
 
 ### Tor example
